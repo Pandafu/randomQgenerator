@@ -1,0 +1,22 @@
+{
+  "name": "randomqgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandafu/randomQgenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandafu/randomQgenerator/issues"
+  },
+  "homepage": "https://github.com/Pandafu/randomQgenerator#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.0"
+  }
+}
