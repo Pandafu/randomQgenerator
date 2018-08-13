@@ -1,0 +1,60 @@
+
+html{
+  background-color: #D5CBE5;
+  transition: background-color 7s ease;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 10px;
+}
+
+.container {
+  background: white;
+  text-align: center;
+  padding: 0;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 700px;
+  height: 320px;
+  border-radius: 10px;
+
+}
+
+.quote-box {
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.list-inline {
+  padding-top: 10px;
+}
+
+.btn {
+  opacity: 1;
+  border: 0;
+  color:  #2A282D;
+}
+
+.btn:hover {
+  background-color: #2A282D;
+  color: #fff!important;
+}
+
+#myname {
+  font-family: cookie, cursive;
+  padding: 10px;
+  font-size: 15px;
+}
